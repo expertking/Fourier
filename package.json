@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/fourier-series-zoom",
+  "main": "@mbostock/fourier-series-zoom.js",
+  "version": "815.0.0",
+  "homepage": "https://observablehq.com/@mbostock/fourier-series-zoom",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
